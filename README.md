@@ -6,9 +6,8 @@
 
 A PyTorch implementation of CLIP (Contrastive Language-Image Pre-training) model specifically designed for CIFAR-10 dataset. This project provides complete training, inference, and visualization capabilities for multimodal learning research and education.
 <div align="center">
-  <img src="demo_sample_1.png" width="30%" />
-  <img src="demo_sample_2.png" width="30%" />
-  <img src="demo_sample_3.png" width="30%" />
+  <img src="demo_sample_1.png" width="45%" />
+  <img src="demo_sample_2.png" width="45%" />
 </div>
 
 ## 🎯 Quick Demo
